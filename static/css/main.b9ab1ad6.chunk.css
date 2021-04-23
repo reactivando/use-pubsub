@@ -1,2 +1,2 @@
 body{margin:0;padding:0;font-family:sans-serif}.app{max-width:900px;margin:0 auto;display:-webkit-flex;display:flex;-webkit-align-items:center;align-items:center;-webkit-justify-content:center;justify-content:center;-webkit-flex-direction:column;flex-direction:column}.app>div{width:600px}@media (max-width:599px){.app>div{width:400px}}@media (max-width:399px){.app>div{width:300px}}.app>div:after{content:"";display:block;height:1px;background:rgba(0,0,0,.5);width:100%;margin:8px 0}
-/*# sourceMappingURL=main.4400914d.chunk.css.map */
+/*# sourceMappingURL=main.b9ab1ad6.chunk.css.map */
